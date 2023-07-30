@@ -1,0 +1,6 @@
+time="2023-07-30T20:02:53+08:00" level=info msg="你好"
+time="2023-07-30T20:02:53+08:00" level=warning msg="你好"
+time="2023-07-30T20:02:53+08:00" level=error msg="你好"
+time="2023-07-30T20:06:06+08:00" level=info msg="你好"
+time="2023-07-30T20:06:06+08:00" level=warning msg="你好"
+time="2023-07-30T20:06:06+08:00" level=error msg="你好"
